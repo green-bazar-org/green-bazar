@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GreenBazarApplication {
     public static void main(String[] args) {
         SpringApplication.run(GreenBazarApplication.class, args);
+
     }
 
 }
